@@ -1,1 +1,5 @@
-streamlit
+PyQt6
+pandas
+openpyxl
+pyinstaller
+matplotlib
